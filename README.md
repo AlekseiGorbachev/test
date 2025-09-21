@@ -4,10 +4,10 @@
 - [Скриншот истории коммитов](#скриншот-истории-коммитов)
 
 ## Операции git
-pull 
-push
-squash 
-reset
+- pull 
+- push
+- squash 
+- reset
 
 
 ## Описание git gui  
